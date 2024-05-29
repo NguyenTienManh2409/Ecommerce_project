@@ -20,4 +20,5 @@ E-commerce project developed using Spring Boot and Angular.<br>
 * Customers can order the products in the shopping cart.
 * Customers can change their password and view their orders.
 
+videoDemo: https://youtu.be/9UBTevMgick
 
